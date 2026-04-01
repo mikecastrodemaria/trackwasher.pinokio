@@ -1,4 +1,5 @@
 module.exports = {
+  version: "3.1",
   title: "TrackWasher",
   description: "Pre-mastering & audio enhancement for AI-generated music. 12-stage processing chain with platform presets (Suno, Udio), before/after spectrogram, and broadcast-ready LUFS normalization.",
   icon: "icon.png",
