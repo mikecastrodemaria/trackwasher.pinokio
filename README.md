@@ -1,4 +1,4 @@
-# TrackWasher for Pinokio (v3.2)
+# TrackWasher for Pinokio (v3.3)
 
 One-click installer for [TrackWasher](https://github.com/mikecastrodemaria/TrackAICleaner) — pre-mastering & audio enhancement for AI-generated music.
 
